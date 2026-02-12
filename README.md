@@ -4,7 +4,7 @@
 ---
 
 🔧 **About Me**
-- 🎓 Currently pursuing **B.Tech in Engineering** from *Banasthali Vidyapeeth* (Aug 2022 - May 2026)
+- 🎓 Currently pursuing **B.Tech in Engineering** from *Banasthali Vidyapeeth* (july 2023 - May 2027)
 - 💡 I love blending **hardware** and **software** to build efficient, real-world solutions
 - 🤖 Experienced in **Arduino Uno**, **NodeMCU**, and **MATLAB simulations**
 - 🖥️ Skilled in **C programming**, **Object-Oriented Programming**, and **web technologies** (HTML, CSS)
