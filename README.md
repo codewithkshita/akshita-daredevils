@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Akshita%20Khandelwal&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Akshita%20Khandelwal&fontSize=75&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
@@ -8,47 +8,42 @@
 
 ---
 
-### 🌸 The Aesthetic Dev
+### 🌸 About Me
 <p align="left">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-  B.Tech student (2023-2027). I blend <b>Hardware</b> and <b>Software</b> to build solutions that actually matter.
+  I'm a B.Tech student (2023-2027) blending <b>Hardware</b> and <b>Software</b> to build the future. 
 </p>
 
 * ✨ **Core Team** @ GeeksforGeeks On Campus
-* 🦄 **Obsession**: Clean UI, IoT, and AI-driven automation
-* 📍 **Location**: Jaipur, India
+* 🤖 **Expertise**: IoT, React.js, and AI-driven automation
+* 📍 **Base**: Jaipur, India
 
 ---
 
-### 🛠️ My Tech Palette
+### 🛠️ Tech Palette
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,ts,react,vite,html,css,arduino,matlab,postman&theme=light" />
 </p>
 
 ---
 
-### 📈 My Coding Activity
+### 📈 My Coding Universe
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshita-daredevils&show_icons=true&theme=rose_pine&font_color=ff69b4&icon_color=ff69b4&title_color=ffb6c1&hide_border=true" alt="Akshita's Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=akshita-daredevils&show_icons=true&theme=rose_pine&font_color=ff69b4&icon_color=ff69b4&title_color=ffb6c1&hide_border=true" Alt="Akshita's Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshita-daredevils&theme=rose_pine&fire=ff69b4&ring=ffb6c1&sideNums=ffb6c1&hide_border=true" alt="Streak Stats" />
-</p>
-
----
-
-### 🏆 Trophies & Milestones
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshita-daredevils&theme=dracula&column=4&margin-w=15&background=00000000" alt="Trophies" />
-</p>
-
----
-
-### 🐍 Contribution Snake (Aesthetic Edition)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshita-daredevils&theme=github-light&color=ff69b4&line=ff69b4&point=ffb6c1&area=true&hide_border=true" width="100%" />
 </p>
+
+---
+
+### 🚀 Top Projects 
+| Project | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **TaskSync** | `React` `TS` `API` | [View Project](#) |
+| **PrepLibrary** | `Scraping` `UI/UX` | [Visit Site](https://app.preplibrary.xyz) |
+| **AI Resume** | `Gemini API` `Vite` | [Repo](#) |
 
 ---
 
