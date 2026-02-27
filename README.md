@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Akshita%20Khandelwal&fontSize=75&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Akshita%20Rawat&fontSize=75&animation=fadeIn&fontAlignY=35&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
